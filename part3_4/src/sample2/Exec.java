@@ -1,0 +1,9 @@
+package sample2;
+
+public class Exec {
+	public static void main(String[] args) {
+		Information info = new Student(100, "ìcíÜçG");
+		System.out.println(info.className());
+		System.out.println(info.exp());
+	}
+}
