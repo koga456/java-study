@@ -6,4 +6,4 @@ Java学習用
 
 
 - fix-B
-- faeture-C
+- feature-C
