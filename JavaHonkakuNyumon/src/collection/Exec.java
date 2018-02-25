@@ -1,0 +1,20 @@
+package collection;
+
+import java.util.*;
+
+public class Exec {
+	public static void main(String[] args) {
+		
+		Integer[] array = {3, 1, 13, 2, 8, 5, 1};
+		
+		Comparator<Integer> c = new Comparator<Integer>() {
+			@Override
+			public int compare(Integer o1, Integer o2) {
+				return o2.compareTo(o1);
+			}
+		};
+		
+		Arrays.sort(array, c);
+		System.out.println(Arrays.toString(array));
+	}
+}
