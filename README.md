@@ -24,3 +24,15 @@ Java学習用
 - 特殊なクラス(enum等)
 - 正規表現
 - プログラミング演習
+
+## JavaHonkakuNyumon
+Java本確入門　技術評論社
+- collection コレクションについて
+- date 日付処理
+- designPattern デザインパターン
+- io ファイル入出力 
+- junit　junitについて
+- library　ライブラリの使い方
+- makeClass　クラスについて
+- regularExprassion　正規表現
+- stream_Lamuda　streamAPIとラムダ式
